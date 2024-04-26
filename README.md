@@ -4,9 +4,9 @@
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
+- 🦄 **Desarrollador/a:** *Jefri Soto __(Js0t0)__*
 - 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
+- 🦾 **Perfil:** *Novato*
 - 💬 **Un comentario breve o frase ingeniosa**: *-*
 
 ## Observaciones
